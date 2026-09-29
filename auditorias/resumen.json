@@ -1,0 +1,305 @@
+{
+  "generado": "2026-09-29T05:15:35.269Z",
+  "resumen": [
+    {
+      "vista": "Pestaña 1 · Investigación y validación",
+      "pantalla": "escritorio 1440×900",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": {
+        "filas": 27,
+        "columnas": [
+          "#",
+          "Indicador",
+          "Categoría",
+          "n",
+          "%",
+          "Año",
+          "Tipo de evidencia",
+          "Fuente"
+        ],
+        "categorias": 8,
+        "busqueda": true,
+        "orden": true,
+        "anuncio": "27 indicadores",
+        "desborde": 0
+      }
+    },
+    {
+      "vista": "Pestaña 2 · Oferta territorial",
+      "pantalla": "escritorio 1440×900",
+      "consola": 1,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": {
+        "motor": "google",
+        "mapaPx": {
+          "w": 1088,
+          "h": 480
+        },
+        "tiles": 0,
+        "contornos": 0,
+        "poligonos": 0,
+        "pintados": 0,
+        "comuna": null
+      },
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 3 · Calidad y brechas",
+      "pantalla": "escritorio 1440×900",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Prototipo del sistema",
+      "pantalla": "escritorio 1440×900",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 822,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 1 · Investigación y validación",
+      "pantalla": "portatil 1024×768",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": {
+        "filas": 27,
+        "columnas": [
+          "#",
+          "Indicador",
+          "Categoría",
+          "n",
+          "%",
+          "Año",
+          "Tipo de evidencia",
+          "Fuente"
+        ],
+        "categorias": 8,
+        "busqueda": true,
+        "orden": true,
+        "anuncio": "27 indicadores",
+        "desborde": 0
+      }
+    },
+    {
+      "vista": "Pestaña 2 · Oferta territorial",
+      "pantalla": "portatil 1024×768",
+      "consola": 1,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": {
+        "motor": "google",
+        "mapaPx": {
+          "w": 938,
+          "h": 480
+        },
+        "tiles": 0,
+        "contornos": 0,
+        "poligonos": 0,
+        "pintados": 0,
+        "comuna": null
+      },
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 3 · Calidad y brechas",
+      "pantalla": "portatil 1024×768",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Prototipo del sistema",
+      "pantalla": "portatil 1024×768",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 822,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 1 · Investigación y validación",
+      "pantalla": "tableta 820×1180",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": {
+        "filas": 27,
+        "columnas": [
+          "#",
+          "Indicador",
+          "Categoría",
+          "n",
+          "%",
+          "Año",
+          "Tipo de evidencia",
+          "Fuente"
+        ],
+        "categorias": 8,
+        "busqueda": true,
+        "orden": true,
+        "anuncio": "27 indicadores",
+        "desborde": 0
+      }
+    },
+    {
+      "vista": "Pestaña 2 · Oferta territorial",
+      "pantalla": "tableta 820×1180",
+      "consola": 1,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": {
+        "motor": "google",
+        "mapaPx": {
+          "w": 754,
+          "h": 380
+        },
+        "tiles": 0,
+        "contornos": 0,
+        "poligonos": 0,
+        "pintados": 0,
+        "comuna": null
+      },
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 3 · Calidad y brechas",
+      "pantalla": "tableta 820×1180",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Prototipo del sistema",
+      "pantalla": "tableta 820×1180",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 822,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 1 · Investigación y validación",
+      "pantalla": "movil 390×844",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": {
+        "filas": 27,
+        "columnas": [
+          "#",
+          "Indicador",
+          "Categoría",
+          "n",
+          "%",
+          "Año",
+          "Tipo de evidencia",
+          "Fuente"
+        ],
+        "categorias": 8,
+        "busqueda": true,
+        "orden": true,
+        "anuncio": "27 indicadores",
+        "desborde": 0
+      }
+    },
+    {
+      "vista": "Pestaña 2 · Oferta territorial",
+      "pantalla": "movil 390×844",
+      "consola": 2,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": {
+        "motor": "google",
+        "mapaPx": {
+          "w": 332,
+          "h": 320
+        },
+        "tiles": 0,
+        "contornos": 0,
+        "poligonos": 0,
+        "pintados": 0,
+        "comuna": null
+      },
+      "explorador": null
+    },
+    {
+      "vista": "Pestaña 3 · Calidad y brechas",
+      "pantalla": "movil 390×844",
+      "consola": 0,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 0,
+      "mapa": null,
+      "explorador": null
+    },
+    {
+      "vista": "Prototipo del sistema",
+      "pantalla": "movil 390×844",
+      "consola": 1,
+      "contraste": [],
+      "contrasteOmitidosEnArtefacto": 825,
+      "mapa": null,
+      "explorador": null
+    }
+  ],
+  "fallos": [
+    {
+      "where": "escritorio 1440×900 · Pestaña 2 · Oferta territorial",
+      "msg": "El mapa no dibujó ningún polígono interactivo."
+    },
+    {
+      "where": "escritorio 1440×900 · Pestaña 2 · Oferta territorial",
+      "msg": "Consola: warning: Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+    },
+    {
+      "where": "portatil 1024×768 · Pestaña 2 · Oferta territorial",
+      "msg": "El mapa no dibujó ningún polígono interactivo."
+    },
+    {
+      "where": "portatil 1024×768 · Pestaña 2 · Oferta territorial",
+      "msg": "Consola: warning: Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+    },
+    {
+      "where": "tableta 820×1180 · Pestaña 2 · Oferta territorial",
+      "msg": "El mapa no dibujó ningún polígono interactivo."
+    },
+    {
+      "where": "tableta 820×1180 · Pestaña 2 · Oferta territorial",
+      "msg": "Consola: warning: Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+    },
+    {
+      "where": "movil 390×844 · Pestaña 2 · Oferta territorial",
+      "msg": "El mapa no dibujó ningún polígono interactivo."
+    },
+    {
+      "where": "movil 390×844 · Pestaña 2 · Oferta territorial",
+      "msg": "Consola: warning: Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+    },
+    {
+      "where": "movil 390×844 · Pestaña 2 · Oferta territorial",
+      "msg": "Consola: requestfailed: https://maps.gstatic.com/mapfiles/transparent.png"
+    },
+    {
+      "where": "movil 390×844 · Prototipo del sistema",
+      "msg": "Consola: requestfailed: https://b.tile.openstreetmap.org/14/4751/7904.png"
+    }
+  ],
+  "avisos": [],
+  "contrasteOmitidoEnArtefactos": 3291
+}
