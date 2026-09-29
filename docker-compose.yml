@@ -1,0 +1,21 @@
+services:
+  atlas-c6:
+    build: .
+    container_name: atlas_c6_app
+    restart: unless-stopped
+    ports:
+      - "5173:5173" # Frontend Vite
+      - "3009:3001" # API Express (puedes consultarla directo o vía /api en el frontend)
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - PORT=3009
+      - ATLAS_API=http://localhost:3009
+    networks:
+      - atlas_net
+
+networks:
+  atlas_net:
+    driver: bridge
