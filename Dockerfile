@@ -8,11 +8,11 @@ COPY package*.json ./
 # Instalar dependencias
 RUN npm install
 
-# Copiar el resto del código
+# Copiar el código
 COPY . .
 
-# Puerto de la API Express (habitualmente 3000 o 4000) y de Vite (5173)
-EXPOSE 3000 5173
+# Exponer el puerto de Vite y el de Express
+EXPOSE 5173 3009
 
-# Arrancar backend y frontend simultáneamente
-CMD ["npm", "run", "dev", "--", "--host"]
+# Iniciar ambos servicios en paralelo como define tu package.json
+CMD ["npm", "run", "dev"]
