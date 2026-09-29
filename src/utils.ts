@@ -6,9 +6,9 @@ const VALIDAS: Tab[] = ['inicio', 'investigacion', 'oferta', 'calidad', 'flujo',
 
 /** Lee la pestaña inicial del hash (#oferta) para que la URL sea compartible. */
 export function tabInicial(): Tab {
-  if (typeof window === 'undefined') return 'investigacion';
+  if (typeof window === 'undefined') return 'oferta';
   const h = window.location.hash.replace('#', '') as Tab;
-  return VALIDAS.includes(h) ? h : 'investigacion';
+  return VALIDAS.includes(h) ? h : 'oferta';
 }
 
 export function useTabs(initial: Tab = tabInicial()) {

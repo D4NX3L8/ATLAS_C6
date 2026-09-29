@@ -18,8 +18,8 @@ const Flujo = React.lazy(() => import('./pages/Flujo'));
 const Prototipo = React.lazy(() => import('./pages/Prototipo'));
 
 const TABS: { id: Tab; Icono: typeof Microscope; label: string; corto: string; mini: string }[] = [
-  { id: 'investigacion', Icono: Microscope, label: 'Investigación y validación', corto: 'Investigación', mini: 'Datos' },
   { id: 'oferta', Icono: MapPinned, label: 'Oferta e identidad territorial', corto: 'Oferta territorial', mini: 'Oferta' },
+  { id: 'investigacion', Icono: Microscope, label: 'Investigación y validación', corto: 'Investigación', mini: 'Datos' },
   { id: 'calidad', Icono: ShieldCheck, label: 'Calidad, cobertura y brechas', corto: 'Calidad y brechas', mini: 'Calidad' },
   { id: 'flujo', Icono: Workflow, label: 'Flujo', corto: 'Flujo', mini: 'Flujo' },
   { id: 'inicio', Icono: CircleHelp, label: '¿Por qué ATLAS C6?', corto: '¿Por qué?', mini: '¿Por qué?' },
