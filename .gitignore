@@ -25,6 +25,8 @@ dist-ssr
 
 # base de datos generada
 data/
+!src/data/
+!src/data/*.geo.json
 
 # claves: nunca al repositorio
 .env
