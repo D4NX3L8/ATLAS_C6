@@ -8,6 +8,10 @@ export default defineConfig({
   server: {
     host: "0.0.0.0",
     port: 5173,
+    allowedHosts: [
+      "atlasc6.theja.com.co",
+      ".theja.com.co", // O simplemente `allowedHosts: true`
+    ],
     watch: {
       usePolling: true,
     },
@@ -21,6 +25,7 @@ export default defineConfig({
   preview: {
     host: "0.0.0.0",
     port: 5173,
+    allowedHosts: ["atlasc6.theja.com.co", ".theja.com.co"],
     proxy: {
       "/api": {
         target: api,
